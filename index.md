@@ -1,6 +1,4 @@
-<html>
-  <body>
-{% highlight c %}
+{% highlight c linenos %}
 #include <stdio.h>
 
 int main(void)
@@ -9,5 +7,3 @@ int main(void)
   return (0);
 }
 {% endhighlight %}
-  </body>
-</html>
