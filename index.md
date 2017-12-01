@@ -1,4 +1,4 @@
-{% highlight c linenos %}
+{% highlight c %}
 #include <stdio.h>
 
 int main(void)
