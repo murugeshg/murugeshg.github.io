@@ -1,9 +1,15 @@
-{% highlight c %}
-#include <stdio.h>
+# Home Manager
 
-int main(void)
-{
-  printf("Hello, world\n");
-  return (0);
-}
-{% endhighlight %}
+## Highlights
+
+### Release 2.0
+```
+application + database + standalone nginx deployment
+```
+
+### Release 2.1
+```
+application + database + common nginx proxy
+```
+
+
